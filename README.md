@@ -58,6 +58,10 @@ For the spacy package, the languages should be installed as follows:
 - `dplyr`
 - `pander`
 
+### Additional requirements 
+
+The set of italian embeddings necessary to test the Word2Vec approach in `future_perspectives` is available on the [Italian NLP Lab](http://www.italianlp.it/resources/italian-word-embeddings/) website.
+
 ## Results
 
 A short report of the research project will be updated soon, containing some insights about my results.
