@@ -64,4 +64,4 @@ The set of italian embeddings necessary to test the Word2Vec approach in `future
 
 ## Results
 
-A short report of the research project will be updated soon, containing some insights about my results.
+A short report of the research project has been updated and is available! The last section contains a textual description of our findings. For a visual understanding, please refer to the results folder.
