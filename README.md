@@ -12,7 +12,7 @@ The analysis was structured in two parts:
 
 This repository is structured as follows:
 
-- The `datasets` folder contains the original letter corpus, and is the location where all subsequent datasets used for our purposes are saved.
+- The `datasets` folder contains the original letter corpus, and is the location where all subsequent datasets used for our purposes are saved. **New:** Added positive/negative sentiment italian wordlist for recurrent words connotation analysis.
 
 - The `results` folder contain plots describing our findings and evaluating the performance of our LDA model in svg and png format.
 
@@ -21,6 +21,8 @@ This repository is structured as follows:
 - The `sentiment_analysis_extraction` notebook generates a `sentiment.csv` file containing the sentiment intensity percentage for all the letters in the original corpus.
 
 - The `sentiment_analysis_evaluation` notebook creates many additional datasets used to evaluate and plot our results.
+
+- **New:** The `recurrent_words_connotation_analysis` notebook is used to inspect which words are the cause of most positive/negative sentiment over Svevo lifespan.
 
 - The `future_perspectives` notebook contains approaches that were tested for the analysis and finally disregarded for their complexity or their results, but definitely deserve a second look for future utilization.
 
