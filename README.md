@@ -30,7 +30,7 @@ This repository is structured as follows:
 
 In order for all the notebooks to work properly, the following requirements should be met.
 
-**Warning:** The code of future_perspectives used to follow the one inside the topic_modeling notebook and was separated later. Because of this, the code won't compile unless it is provided with the right variables and imports. To test it, simply put it back at the end of the topic_modeling notebook.
+**Warning:** The last part of future perspective notebook will not function out-of-the-box. See additional requirements below and notebook for more information on this topic.
 
 ### Python packages
 
@@ -43,6 +43,8 @@ In order for all the notebooks to work properly, the following requirements shou
 - `matplotlib`
 - `seaborn`
 - `tqdm`
+
+Simply run `pip install -r requirements.txt` inside this folder to automatically install all dependencies.
 
 For the spacy package, the languages should be installed as follows:
 
@@ -60,7 +62,9 @@ For the spacy package, the languages should be installed as follows:
 - `dplyr`
 - `pander`
 
-### Additional requirements 
+Run `install.packages("syuzhet", "dplyr", "pander")` inside a R shell.
+
+### Additional requirements for Future Perspectives notebook
 
 The set of italian embeddings necessary to test the Word2Vec approach in `future_perspectives` is available on the [Italian NLP Lab](http://www.italianlp.it/resources/italian-word-embeddings/) website.
 
