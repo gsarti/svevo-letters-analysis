@@ -2,7 +2,7 @@
 
 ## News
 
-* The project was presented at [2019 AILC Lectures on Computational Linguistics](http://www.ai-lc.it/lectures-2019-it/)! The poster created for the presentation is available [here](https://github.com/gsarti/svevo-letters-analysis/svevo_poster.pdf).
+* The project was presented at [2019 AILC Lectures on Computational Linguistics](http://www.ai-lc.it/lectures-2019-it/)! The poster created for the presentation is available [here](https://github.com/gsarti/svevo-letters-analysis/blob/master/svevo_poster.pdf).
 
 ## Description
 
