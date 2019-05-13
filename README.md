@@ -1,5 +1,9 @@
 # Svevo Letters Analysis
 
+## News
+
+* The project was presented at [2019 AILC Lectures on Computational Linguistics](http://www.ai-lc.it/lectures-2019-it/)! The poster created for the presentation is available [here](https://github.com/gsarti/svevo-letters-analysis/svevo_poster.pdf).
+
 ## Description
 
 The purpose of this research project is to analyze the epistolary corpus of [Italo Svevo](https://en.wikipedia.org/wiki/Italo_Svevo), one of the great italian novelists of the twentieth century and a pioneer of the psychological novel in Italy. The analysis were performed on the corpus created by Cristina Fenu as final project work for the [Masters in Digital Humanities](https://www.unive.it/pag/9180/) of Università Ca' Foscari of Venice during academic year 2015-2016.
